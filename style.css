@@ -58,37 +58,58 @@ img {
 .card-02:hover .img2 {
     display: initial;
 }
-.card-02:hover .img1{
+
+.card-02:hover .img1 {
     display: none;
 }
-.card-03:hover .img2{
+
+.card-03:hover .img2 {
     display: initial;
 }
-.card-03:hover .img1{
+
+.card-03:hover .img1 {
     display: none;
 }
-.card-04:hover .img2{
+
+.card-04:hover .img2 {
     display: initial;
 }
-.card-04:hover .img1{
+
+.card-04:hover .img1 {
     display: none;
 }
-.card-05:hover .img2{
+
+.card-05:hover .img2 {
     display: initial;
 }
-.card-05:hover .img1{
+
+.card-05:hover .img1 {
     display: none;
 }
-.card-06:hover .img2{
+
+.card-06:hover .img2 {
     display: initial;
 }
-.card-06:hover .img1{
+
+.card-06:hover .img1 {
     display: none;
 }
-.discount{display: inline-block;}
-.sostenibilita{display:inline-block;
-background-color: green;}
-.footer-text{color: aliceblue;}
-.container-footer{background-color: black;
-display: flex;
-justify-content: space-between;}
+
+.discount {
+    display: inline-block;
+}
+
+.sostenibilita {
+    display: inline-block;
+    background-color: green;
+}
+
+.footer-text {
+    color: aliceblue;
+}
+
+.container-footer {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
